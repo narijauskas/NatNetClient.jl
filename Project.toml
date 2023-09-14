@@ -1,0 +1,13 @@
+name = "NatNetClient"
+uuid = "aea0e6bf-5d25-4358-b5f0-b48730db8de0"
+authors = ["Mantas Naris"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
